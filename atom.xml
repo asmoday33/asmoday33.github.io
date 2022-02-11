@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>托斯塔纳天堂</title>
+  
+  <subtitle>你越不快乐，就越沉迷做一个思想者</subtitle>
+  <link href="https://asmoday33.github.io/blog/atom.xml" rel="self"/>
+  
+  <link href="https://asmoday33.github.io/blog/"/>
+  <updated>2022-02-11T17:25:19.707Z</updated>
+  <id>https://asmoday33.github.io/blog/</id>
+  
+  <author>
+    <name>asmoday</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>跌跌撞撞的小白博客搭建</title>
+    <link href="https://asmoday33.github.io/blog/2022/02/12/00-58-53/"/>
+    <id>https://asmoday33.github.io/blog/2022/02/12/00-58-53/</id>
+    <published>2022-02-11T16:58:53.000Z</published>
+    <updated>2022-02-11T17:25:19.707Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="跌跌撞撞的小白博客搭建记录"><a href="#跌跌撞撞的小白博客搭建记录" class="headerlink" title="跌跌撞撞的小白博客搭建记录"></a>跌跌撞撞的小白博客搭建记录</h1><p>从2022年1月7号突然想写一个博客，到2022年1月11号的现在终于开始写我博客的第一篇文章，这个博客真的花了我的很多心血（至连着三天熬夜😥）。身为一个什么语言也没有学过，对于计算机一窍不通的我竟然能弄出这么一个像模像样的东西，要感谢付出了这么多心血的我，更要感谢那些乐于分享的大佬前辈。</p><h2 id="决定平台"><a href="#决定平台" class="headerlink" title="决定平台"></a>决定平台</h2><p>一开始的我其实对博客一点也不了解，完全没有概念，只是以为是一个比较纯粹一点的写作环境。其实在那之前我注册了一个公众号，但是出于对公众号的一些偏见以及公众号写作的不便（是不是只有网页版啊）再加上一点点的猎奇心理，我想尝试找一个更适合我记录的平台，于是便在等亲戚上门年的无聊时间，搜索了“写博客的网站（这个搜索记录也可以看出我的无知了hh）”。那时的我一定不知道这个将对我接下来的几天产生多大的影响。</p><p><img src="/2022/02/12/00-58-53/image-20220211231220255-16445923484131.png" alt="image-20220211231220255"></p><h3 id="Gridea"><a href="#Gridea" class="headerlink" title="Gridea"></a>Gridea</h3><p>这是我第一个尝试的，这是一个博客软件，集成了一些主题和配置，可以更加专注于写作本身。就算是这个也花了我很长的时间，因为需要申请github，而且此时的我对生成静态文件，远程同步等等完全没有概念，仅仅是跟着一些教程操作。更为重要的原因是，在8号的下午，我发现gridea的远程同步老是失败，在查了之后才知道“因为某些原因，gridea在国内同步极其不稳定”。即使我连着外网也是如此。但是此时的我仍然心存侥幸，于是我卸载了gridea，重新安装，结果仍然没有任何改变。于是只能放弃了。</p><h3 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h3><p>在gridea失败后我开始寻找下一个“博客平台”，在一番科普之后我逐渐开始明白博客究竟是一个什么样的东西，我们日常接触的许多软件，如知乎，小红书等其本质上都是一个博客平台，但是其实blog更多的是指一个个人写作网站，不是为了他人写的。同时blog更吸引我的一点是<strong>它足够的自由</strong>，你可以定义任何你自己想去定义的，做任何你想作的事，你可以有一个个性化展示自己的平台，而且可以不用被推送，广告之类的干扰（甚至可以利用广告进行收益）。在一些主流平台（比如微信公众号）上，平台多少是想利用用户来吸引流量，获得利润，而这必然会给我们带来一些影响。而在这里则不然，<strong>这完全是一个你自己的世界，至少是一个你可以尝试理解的世界。</strong></p><p>在一些比较之后我选择了最</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="生活" scheme="https://asmoday33.github.io/blog/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="尝试" scheme="https://asmoday33.github.io/blog/categories/%E7%94%9F%E6%B4%BB/%E5%B0%9D%E8%AF%95/"/>
+    
+    
+    <category term="尝试" scheme="https://asmoday33.github.io/blog/tags/%E5%B0%9D%E8%AF%95/"/>
+    
+    <category term="小白" scheme="https://asmoday33.github.io/blog/tags/%E5%B0%8F%E7%99%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>实验</title>
+    <link href="https://asmoday33.github.io/blog/2022/02/12/00-50-42/"/>
+    <id>https://asmoday33.github.io/blog/2022/02/12/00-50-42/</id>
+    <published>2022-02-11T16:50:42.000Z</published>
+    <updated>2022-02-11T16:52:59.217Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://asmoday33.github.io/blog/2022/02/11/13-27-24/"/>
+    <id>https://asmoday33.github.io/blog/2022/02/11/13-27-24/</id>
+    <published>2022-02-11T05:27:24.591Z</published>
+    <updated>2022-02-09T12:09:11.572Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
