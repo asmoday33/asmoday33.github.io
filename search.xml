@@ -26,7 +26,7 @@
   <entry>
     <title>跌跌撞撞的小白博客搭建</title>
     <url>/2022/02/12/00-58-53/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="跌跌撞撞的小白博客搭建记录"><a href="#跌跌撞撞的小白博客搭建记录" class="headerlink" title="跌跌撞撞的小白博客搭建记录"></a>跌跌撞撞的小白博客搭建记录</h1><p>从2022年1月7号突然想写一个博客，到2022年1月11号的现在终于开始写我博客的第一篇文章，这个博客真的花了我的很多心血（至连着三天熬夜😥）。身为一个什么语言也没有学过，对于计算机一窍不通的我竟然能弄出这么一个像模像样的东西，要感谢付出了这么多心血的我，更要感谢那些乐于分享的大佬前辈。</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="跌跌撞撞的小白博客搭建记录"><a href="#跌跌撞撞的小白博客搭建记录" class="headerlink" title="跌跌撞撞的小白博客搭建记录"></a>跌跌撞撞的小白博客搭建记录</h1><p>从2022年1月7号突然想写一个博客，到2022年1月11号的现在终于开始写我博客的第一篇文章，这个博客花了我的很多心血（至连着三天熬夜😥）。身为一个什么语言也没有学过，对于计算机一窍不通的我竟然能弄出这么一个像模像样的东西，要感谢付出了这么多心血的我，更要感谢那些乐于分享的大佬前辈。下面我来写一下我的博客搭建过程。</p>
 <h2 id="决定平台"><a href="#决定平台" class="headerlink" title="决定平台"></a>决定平台</h2><p>一开始的我其实对博客一点也不了解，完全没有概念，只是以为是一个比较纯粹一点的写作环境。其实在那之前我注册了一个公众号，但是出于对公众号的一些偏见以及公众号写作的不便（是不是只有网页版啊）再加上一点点的猎奇心理，我想尝试找一个更适合我记录的平台，于是便在等亲戚上门年的无聊时间，搜索了“写博客的网站（这个搜索记录也可以看出我的无知了hh）”。那时的我一定不知道这个将对我接下来的几天产生多大的影响。</p>
 <p><img src="/2022/02/12/00-58-53/image-20220211231220255-16445923484131.png" alt="image-20220211231220255"></p>
 <h3 id="Gridea"><a href="#Gridea" class="headerlink" title="Gridea"></a>Gridea</h3><p>这是我第一个尝试的，这是一个博客软件，集成了一些主题和配置，可以更加专注于写作本身。就算是这个也花了我很长的时间，因为需要申请github，而且此时的我对生成静态文件，远程同步等等完全没有概念，仅仅是跟着一些教程操作。更为重要的原因是，在8号的下午，我发现gridea的远程同步老是失败，在查了之后才知道“因为某些原因，gridea在国内同步极其不稳定”。即使我连着外网也是如此。但是此时的我仍然心存侥幸，于是我卸载了gridea，重新安装，结果仍然没有任何改变。于是只能放弃了。</p>
