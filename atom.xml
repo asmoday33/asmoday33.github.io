@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>托斯塔纳天堂</title>
+  <title>托斯塔纳海边</title>
   
   <subtitle>你越不快乐，就越沉迷做一个思想者</subtitle>
   <link href="https://asmoday33.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://asmoday33.github.io/blog/"/>
-  <updated>2022-02-12T03:41:17.603Z</updated>
+  <updated>2022-02-20T06:42:22.602Z</updated>
   <id>https://asmoday33.github.io/blog/</id>
   
   <author>
@@ -17,13 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>跌跌撞撞的小白博客搭建</title>
+    <title>《大转型》</title>
+    <link href="https://asmoday33.github.io/blog/2022/02/20/13-35-15/"/>
+    <id>https://asmoday33.github.io/blog/2022/02/20/13-35-15/</id>
+    <published>2022-02-20T05:35:15.000Z</published>
+    <updated>2022-02-20T06:42:22.602Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>开始使用博客也有一段时间了，但是除了用来写一些没有公开的日记之外还没有写过其他的东西，这里打算试一试能不能用博客做一个摘录和梳理。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+    <category term="阅读" scheme="https://asmoday33.github.io/blog/tags/%E9%98%85%E8%AF%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>从零开始的小白博客搭建记录</title>
     <link href="https://asmoday33.github.io/blog/2022/02/12/00-58-53/"/>
     <id>https://asmoday33.github.io/blog/2022/02/12/00-58-53/</id>
     <published>2022-02-11T16:58:53.000Z</published>
-    <updated>2022-02-12T03:41:17.603Z</updated>
+    <updated>2022-02-14T13:46:56.687Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="跌跌撞撞的小白博客搭建记录"><a href="#跌跌撞撞的小白博客搭建记录" class="headerlink" title="跌跌撞撞的小白博客搭建记录"></a>跌跌撞撞的小白博客搭建记录</h1><p>从2022年1月7号突然想写一个博客，到2022年1月11号的现在终于开始写我博客的第一篇文章，这个博客花了我的很多心血（至连着三天熬夜😥）。身为一个什么语言也没有学过，对于计算机一窍不通的我竟然能弄出这么一个像模像样的东西，要感谢付出了这么多心血的我，更要感谢那些乐于分享的大佬前辈。下面我来写一下我的博客搭建过程。</p><h2 id="决定平台"><a href="#决定平台" class="headerlink" title="决定平台"></a>决定平台</h2><p>一开始的我其实对博客一点也不了解，完全没有概念，只是以为是一个比较纯粹一点的写作环境。其实在那之前我注册了一个公众号，但是出于对公众号的一些偏见以及公众号写作的不便（是不是只有网页版啊）再加上一点点的猎奇心理，我想尝试找一个更适合我记录的平台，于是便在等亲戚上门年的无聊时间，搜索了“写博客的网站（这个搜索记录也可以看出我的无知了hh）”。那时的我一定不知道这个将对我接下来的几天产生多大的影响。</p><p><img src="/2022/02/12/00-58-53/image-20220211231220255-16445923484131.png" alt="image-20220211231220255"></p><h3 id="Gridea"><a href="#Gridea" class="headerlink" title="Gridea"></a>Gridea</h3><p>这是我第一个尝试的，这是一个博客软件，集成了一些主题和配置，可以更加专注于写作本身。就算是这个也花了我很长的时间，因为需要申请github，而且此时的我对生成静态文件，远程同步等等完全没有概念，仅仅是跟着一些教程操作。更为重要的原因是，在8号的下午，我发现gridea的远程同步老是失败，在查了之后才知道“因为某些原因，gridea在国内同步极其不稳定”。即使我连着外网也是如此。但是此时的我仍然心存侥幸，于是我卸载了gridea，重新安装，结果仍然没有任何改变。于是只能放弃了。</p><h3 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h3><p>在gridea失败后我开始寻找下一个“博客平台”，在一番科普之后我逐渐开始明白博客究竟是一个什么样的东西，我们日常接触的许多软件，如知乎，小红书等其本质上都是一个博客平台，但是其实blog更多的是指一个个人写作网站，不是为了他人写的。同时blog更吸引我的一点是<strong>它足够的自由</strong>，你可以定义任何你自己想去定义的，做任何你想作的事，你可以有一个个性化展示自己的平台，而且可以不用被推送，广告之类的干扰（甚至可以利用广告进行收益）。在一些主流平台（比如微信公众号）上，平台多少是想利用用户来吸引流量，获得利润，而这必然会给我们带来一些影响。而在这里则不然，<strong>这完全是一个你自己的世界，至少是一个你可以尝试理解的世界。</strong></p><p>在一些比较之后我选择了最</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>​        从2022年1月号8号突然想写一个博客，到2022年1月11号的现在终于开始写我博客的第一篇文章，这个博客花了我的很多心血（至连着三天熬夜😥）。身为一个什么语言也没有学过，对于计算机一窍不通的我竟然能弄出这么一个像模像样的东西，要感谢付出了这么多心血的我，更要感谢那些乐于分享的大佬前辈。下面我来记录一下我的博客搭建过程，毕竟是让我全身心投入了几天后的结晶。</p><h2 id="决定平台"><a href="#决定平台" class="headerlink" title="决定平台"></a>决定平台</h2><p>一开始的我其实对博客一点也不了解，完全没有概念，只是以为是一个比较纯粹一点的写作环境。其实在那之前我注册了一个公众号，但是出于对公众号的一些偏见以及公众号写作的不便（是不是只有网页版啊）再加上一点点的猎奇心理，我想尝试找一个更适合我记录的平台，于是便在等亲戚上门年的无聊时间，搜索了“写博客的网站（这个搜索记录也可以看出我的无知了hh）”。那时的我一定不知道这个将对我接下来的几天产生多大的影响。</p><p><img src="/2022/02/12/00-58-53/image-20220211231220255-16445923484131.png" alt="image-20220211231220255"></p><h3 id="Gridea"><a href="#Gridea" class="headerlink" title="Gridea"></a>Gridea</h3><p>这是我第一个尝试的，这是一个博客软件，集成了一些主题和配置，可以更加专注于写作本身。就算是这个也花了我很长的时间，因为需要申请github，而且此时的我对生成静态文件，远程同步等等完全没有概念，仅仅是跟着一些教程操作。更为重要的原因是，在8号的下午，我发现gridea的远程同步老是失败，在查了之后才知道“因为某些原因，gridea在国内同步极其不稳定”。即使我连着外网也是如此。但是此时的我仍然心存侥幸，于是我卸载了gridea，重新安装，结果仍然没有任何改变。于是只能放弃了。</p><h3 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h3><p>在gridea失败后我开始寻找下一个“博客平台”，在一番科普之后我逐渐开始明白博客究竟是一个什么样的东西，我们日常接触的许多软件，如知乎，小红书等其本质上都是一个博客平台，但是其实blog更多的是指一个个人写作网站，不是为了他人写的。同时blog更吸引我的一点是<strong>它足够的自由</strong>，你可以定义任何你自己想去定义的，做任何你想作的事，你可以有一个个性化展示自己的平台，而且可以不用被推送，广告之类的干扰（甚至可以利用广告进行收益）。在一些主流平台（比如微信公众号）上，平台多少是想利用用户来吸引流量，获得利润，而这必然会给我们带来一些影响。而在这里则不然，<strong>这完全是一个你自己的世界，至少是一个你可以尝试理解的世界。</strong></p><p>在一些比较之后我选择了最为大众，也是最为简单，相对教程多的hexo来搭建我的第一个博客。网络上很多分享对比，但其实我那时候是完成看不懂的，在一想方正是刚开始也就不所谓，人多至少不会像原先的gridea一样踩雷，所以便果断上手了。而且为了避免被先前的github账号干扰（我之前进行了许多的设定，因为完成不是自己的想法，而且也没有理解，完全不知道怎么回去），而且网络上大多数搭建的教程都是针对从零开始的小白的，所以我第一次注销了github账号。</p><h3 id="Hexo搭建"><a href="#Hexo搭建" class="headerlink" title="Hexo搭建"></a>Hexo搭建</h3><p>接下来便是hexo的搭建。这一步我完全是根据网络上给我们的教程来做，下载gitbush，js，还有npm等等。一路有惊无险，把hexo搭建了起来，并且在个人主页上出现了最原始的博客页面（这时已经时8号的凌晨两点了）。</p><h2 id="主题选取"><a href="#主题选取" class="headerlink" title="主题选取"></a>主题选取</h2><h3 id="选定Next"><a href="#选定Next" class="headerlink" title="选定Next"></a>选定Next</h3><p>在挑选平台的时候，我便在知乎上看见有网友说：“选择Hexo的用户绝大数都会选择next主题，主页都是千篇一律”，于是我在挑选主题的时候刻意想要选择一个非next的主题。我开始安装matery主题。matery主题主要特点是图片比较多，开头还有一个加载页类似的东西，感觉还是很酷炫的。但是我发现我安装时找到的教程好像都挺麻烦，可能也和我那时刚刚开始使用，一些操作都不熟悉有关。</p><p>后来我看到一个博主关于主题选择的话，一下子点醒了我——我建立博客又不是为了与众不同，何必追求那么精美的页面呢，何况在精美的外表也会有审美疲劳的一天，相反简约一点也挺好（但是在后面我还是没有很好的做到这一点hhh）。在退一步说我真的有能力去维持一个更加复杂的博客吗？在逛了一圈这个博主的主页后，我发现这个博主的主页走的是极简风，但是却给我非常舒服的感觉。于是我决定换把主题换回Next。</p><p><img src="/%E8%B7%8C%E8%B7%8C%E6%92%9E%E6%92%9E%E7%9A%84%E5%B0%8F%E7%99%BD%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/image-20220212214345017-16446734276781.png" alt="image-20220212214345017"></p><h3 id="第二次卸载重装"><a href="#第二次卸载重装" class="headerlink" title="第二次卸载重装"></a>第二次卸载重装</h3><p>在决定更换主题后，我又开始跌跌撞撞地修改我的源文件，到处打补丁，这边补以下那边又漏开，而且我发现最严重地问题是我总是同步不上去（后来我发现这个问题其实是我url没有配置好，但是因为那时候每次修改代码都是按照网上的教程照本宣科，所以现在我完全不知道我的blog现在在哪里，就像短线的风筝）。此时已经时9号的晚上了，我本来计划是10号之前搭建完博客并发表一篇文章的，但是现在这个愿望明显是不现实的。于是我回顾了我前面已经干过的事，我发现除了我大的补丁外，真正需要的事其实一点都不多，我咬牙决定卸载了全部的文件重新来过！</p><p>事实证明我的判断时正确的，因为我仅仅用来两个小时，我的就安装好了next的主题，此时我也发现了我之前老是同步错误的问题。而且更重要的是，我发现了一种能够<strong>及时反馈</strong>的方法。</p><p>其实整个博客就是分为三步：本地调试——生成静态文件——远程同步到仓库。但是之前的问题就是远程同步这一步往往不是及时的，需要很长的一段反应的时间。也就是说我无法知道我之前在本地调试修改代码的行为会带来什么像的结果，往往是别人说这样子可以打补丁我就这样子做，也就无怪乎会迷失在代码里了。然而我发现其实有一种更加快的反馈机制，就是本地预览——也就是生成静态文件后先不同步到网站上让所有人可见，而是在自己电脑上查看效果。这不仅是一种反馈机制，而且能看着自己一点点搭建博客还是很激动人心的。</p><p>不过说来惭愧。这本来应该是最最最基本操作，然而我却绕了这么一大圈才知道，由此可见我的计算机基础是多么薄弱。</p><h2 id="Next配置"><a href="#Next配置" class="headerlink" title="Next配置"></a>Next配置</h2><p>接下来的事情就变得简单起来了，因为next比较轻，而且代码插件都很齐全，大多数的配置我都只需要把文件中的false改成true，在hexo g &amp;&amp; hexo s预览一下就行了。但是我还是会非常小心，每次都阅读完各个大佬的代码后尽量选择最简单的操作来执行。在这个过程中我渐渐理解了一些代码的含义，并能小心地修改它们，这已经是非常不容易了。</p><p>接下来列一些操作中让我印象深刻的事。</p><h3 id="菜单"><a href="#菜单" class="headerlink" title="菜单"></a>菜单</h3><p>菜单栏其实我调制了很久，一开始的菜单栏是只有主页和归档（也就是现在的成长）两个的，我要自己加上剩下的以及新建标签和分类的页面（page）。我按照教程完完全全的做了下来，但是我始终不能出现那个页面，因为这里面新建页面的操作中有一些点我始终没有办法理解，于是便在新建的页面上不停的修改。本来就只是几个单词，几个符号，我改了n多遍。最后我在一个前辈的文章中得知这里是hexo自带的一个bug：多了一个空格。真的是柳暗花明啊。</p><h3 id="评论"><a href="#评论" class="headerlink" title="评论"></a>评论</h3><p>评论现在是有的，在知网上看了一圈之后我发现大多数的人都认为valine是一个不错的选择，原因是安装简单，不会被墙，网速也很快。但是我还是花了很多时间调试这个，一是因为在评论的时候我发现那个邮箱和名字完全是一个摆设，不管你填什么都可以评论，二是我想给自己加一个“博主”的标签做以区分，三是评论没有通知，无法使我及时回复。这三个当然是都可做到的，而我也当然都没有做到。</p><p>不过转念想想也好，一来评论更加简单了，对于想要给我评论的人而言不会有任何的障碍，二来我做博客本义就是想给自己一个尽量独立的个人空间，如果最终这里也变成朋友圈一样，又有什么意思呢？三来虽然是匿名评论，但我相信来看我博客的人都是带着善意的，他们的评论一定也是善意的，如果是恶意的我就删掉了哈哈哈。</p><h3 id="音乐"><a href="#音乐" class="headerlink" title="音乐"></a>音乐</h3><p>音乐也是一个让我反反复复修改琢磨的东西。一开始我用的网易云音乐生成外链插件，成功了。但是第二天早上我在打开的时候，就发现已经无法播放了。在修改，检查，搜索很久之后我才知道，这是一个不太稳定的东西，有时候放的起来有时候放不起来。后来我才改用APlayer插件，在认真读了一遍代码后我发现这个插件的安装远没有我想象的那么复杂麻烦。再一次成功安装插件后，我还想要实现音乐的全局播放——就是只要在我的博客里点开其他页面的时候音乐不会间断而是继续播放。无奈我的hexo好像版本不对，少了一个插件。于是我便打算将已有的文件备份复制后，自己手动安装。然而终于也还是不能成功，主要是一些代码不知道改放于何处只能作罢。</p><h3 id="一些其他的配置"><a href="#一些其他的配置" class="headerlink" title="一些其他的配置"></a>一些其他的配置</h3><p>背景：背景是随机背景的，我大部分的背景都还挺好看的</p><p>边框圆角：大部分都成功了，但是首先的文章只有第一篇可以圆角化。</p><p>字数、访问量统计：这个主要是显示在站点的最新下面</p><p>社交链接：链接了两个，一个是我的邮箱，另一个是我的tape箱，后面可能在菜单中增加留言的版块链接我的tape箱</p><p>头像：头像原来是方形的，现在修改为圆形</p><p>最近文章：也显示在头像框内</p><p>还有一些小小的细节，每次觉得基本上ok的时候，又会想在改改吧，再加些效果吧，然而这些是完全没有必要的。</p><h2 id="文章"><a href="#文章" class="headerlink" title="文章"></a>文章</h2><p>文章主要是用markdown语言写的，用的是Typoara软件。在图片插入之类的操作上也是花了好长的时间。</p><h2 id="收获"><a href="#收获" class="headerlink" title="收获"></a>收获</h2><p>这个搭建过程磕磕盼盼，跌跌撞撞，但是终于是做出了一个有模有样的东西。整体是一个高度强度都很大的过程，我很庆幸在我假期的最后几天做了这件事，也收获到了许多。</p><p>一是收获到了编程的一些知识。这次搭建过程中我发现很多以前我根本不理解的计算机知识在逐渐变得理解形成网络，在写代码的过程中常常会进入忘我地步，偶尔甚至会有恍然大悟的激动。</p><p>二是收获到了编程的兴趣。其实在以前我对计算机一直兴趣不大，这也是我大一下没有选编程的原因吧。本来我想的是寒假看一本编程的书激发一下兴趣，结果书没看成，却机缘巧合因为这个博客引起了兴趣。</p><p>三是收获到了一个几乎完全属于我的平台。因为我不需要一个多么大的平台，所以我可以不用达成任何协议而自由的表达自己，没有广告，没有推送，没有点赞。</p><p>其实就算没有这三点，我觉得这也是一段令人难以忘记的经历，因为它足够的投入认真。</p><p>其实有段时间一直对虚拟世界带有一丝偏见，总觉得它远远没有真实世界那样真实。但是现在看来恰恰相反，真实世界可能充满了谎言欺骗，虚拟世界却可以足够真实，因为它回归了简单直接，也像生活最初的模样。</p>]]></content>
     
     
       
@@ -41,46 +63,6 @@
     <category term="尝试" scheme="https://asmoday33.github.io/blog/tags/%E5%B0%9D%E8%AF%95/"/>
     
     <category term="小白" scheme="https://asmoday33.github.io/blog/tags/%E5%B0%8F%E7%99%BD/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>实验</title>
-    <link href="https://asmoday33.github.io/blog/2022/02/12/00-50-42/"/>
-    <id>https://asmoday33.github.io/blog/2022/02/12/00-50-42/</id>
-    <published>2022-02-11T16:50:42.000Z</published>
-    <updated>2022-02-11T16:52:59.217Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://asmoday33.github.io/blog/2022/02/11/13-27-24/"/>
-    <id>https://asmoday33.github.io/blog/2022/02/11/13-27-24/</id>
-    <published>2022-02-11T05:27:24.591Z</published>
-    <updated>2022-02-09T12:09:11.572Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
     
   </entry>
   
