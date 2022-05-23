@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>《大转型》</title>
-    <url>/2022/02/20/13-35-15/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>开始使用博客也有一段时间了，但是除了用来写一些没有公开的日记之外还没有写过其他的东西，这里打算试一试能不能用博客做一个摘录和梳理。</p>
-]]></content>
-      <tags>
-        <tag>阅读</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>从零开始的小白博客搭建记录</title>
     <url>/2022/02/12/00-58-53/</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>​        从2022年1月号8号突然想写一个博客，到2022年1月11号的现在终于开始写我博客的第一篇文章，这个博客花了我的很多心血（至连着三天熬夜😥）。身为一个什么语言也没有学过，对于计算机一窍不通的我竟然能弄出这么一个像模像样的东西，要感谢付出了这么多心血的我，更要感谢那些乐于分享的大佬前辈。下面我来记录一下我的博客搭建过程，毕竟是让我全身心投入了几天后的结晶。</p>
@@ -291,5 +282,10 @@
       <tags>
         <tag>-阅读 -学习</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>傻子</title>
+    <url>/2022/05/23/14-04-55/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
   </entry>
 </search>
